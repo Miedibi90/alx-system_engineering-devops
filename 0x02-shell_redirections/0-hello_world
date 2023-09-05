@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, World\n
+wc -l  Hello, World\n
